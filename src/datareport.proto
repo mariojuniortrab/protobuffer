@@ -1,0 +1,11 @@
+syntax = "proto3";
+package gfbpackage;
+
+message DataReport {
+    string alias    = 1;
+    int32 id        = 2;
+    string hour     = 3;
+    string latitude = 4;
+    string longitude= 5;
+    int32 velocidade= 6;
+}

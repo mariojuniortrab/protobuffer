@@ -1,0 +1,1 @@
+console.log('o client vai rodar aqui..');
